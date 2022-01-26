@@ -1,0 +1,12 @@
+car
+ocean 
+star
+breakfast
+chair
+scarf
+window
+link
+keyboard
+paper
+face
+tablet
